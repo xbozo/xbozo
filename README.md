@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Guilherme!
-### 🚀 Currently I stand by a front-end developer and a passionate for technology, I'm always searching for knowledge and experience.
+### 🚀 Currently I stand by a front-end developer and a passionate for technology. I'm always searching for knowledge and experience.
 
 - 🌱 I’m currently learning **Next & NodeJS**
 
