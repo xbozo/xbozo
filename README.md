@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **React, Git and TS**
 
-- 📫 How to reach me **lulugui15@hotmail.com**
-
 
 ## 🛠 Habilidades
 - React
