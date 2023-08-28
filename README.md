@@ -6,12 +6,12 @@
 - 💬 Ask me about **React, Git and TS**
 
 
-## 🛠 Habilidades
+## 🛠 Habilities
 - React
 - Git & GitHub
 - JavaScript & TypeScript
 
-### ✨ Outras tecnologias
+### ✨ Other technologies
 - TailwindCSS
 - Styled Components
 - Axios
