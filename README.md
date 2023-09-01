@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Guilherme!
 ### 🚀 Currently I stand by a front-end developer and a passionate for technology. I'm always searching for knowledge and experience.
 
-- 🌱 I’m currently learning **Next & NodeJS**
+- 🌱 I’m currently learning **Next.js** and look to learn **Node.js** on a close future.
 
 - 💬 Ask me about **React, Git and TS**
 
@@ -15,6 +15,8 @@
 - TailwindCSS
 - Styled Components
 - Axios
+- React Hook Form
+- Zod
 - TanStack Query
 
 
