@@ -18,6 +18,8 @@
 - React Hook Form
 - Zod
 - TanStack Query
+- Redux
+- Zustand
 
 
 ## 📱 Contact Me
