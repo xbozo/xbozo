@@ -8,8 +8,9 @@
 
 ## 🛠 Habilities
 - React
-- Git & GitHub
 - JavaScript & TypeScript
+- Git & GitHub
+
 
 ### ✨ Other technologies
 - TailwindCSS
