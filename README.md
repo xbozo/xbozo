@@ -18,7 +18,6 @@
 - Axios
 - React Hook Form
 - Zod
-- TanStack Query
 - Redux
 - Zustand
 
