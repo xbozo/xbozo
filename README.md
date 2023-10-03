@@ -6,7 +6,7 @@
 - 💬 Ask me about **React, Git and TS**
 
 
-## 🛠 Habilities
+## 🛠 Main Habilities
 - React
 - JavaScript & TypeScript
 - Git & GitHub
@@ -20,6 +20,7 @@
 - Zod
 - Redux
 - Zustand
+- TanStack Query
 
 
 ## 📱 Contact Me
