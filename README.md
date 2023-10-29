@@ -1,9 +1,6 @@
-### Hi 👋, I'm Guilherme!
-### 🚀 Currently I stand by a front-end developer and a passionate for technology. I'm always searching for knowledge and experience.
-
-- 🌱 I’m currently learning **Next.js**.
-
-- 🌱 Pretend to study about the Back-end environment on the future, mainly on **Node.js**. 
+### Olá 👋, Eu sou o Guilherme!
+- 🌱 Studying **Next.js**.
+- 🌱 Plans on studying Fullstack environment on the future, mainly on **Node.js**.
 
 
 ## 🛠 Main Habilities
