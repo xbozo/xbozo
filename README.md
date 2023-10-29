@@ -1,4 +1,4 @@
-### Olá 👋, Eu sou o Guilherme!
+### Hi 👋, I'm Guilherme!
 - 🌱 Studying **Next.js**.
 - 🌱 Plans on studying Fullstack environment on the future, mainly on **Node.js**.
 
