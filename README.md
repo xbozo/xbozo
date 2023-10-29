@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Guilherme!
 - 🌱 Studying **Next.js**.
-- 🌱 Plans on studying Fullstack environment on the future, mainly on **Node.js**.
+- 🌱 Plans on studying Fullstack environment on the future.
 
 
 ## 🛠 Main Habilities
