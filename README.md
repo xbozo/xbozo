@@ -1,11 +1,10 @@
 <img src="https://cdn.discordapp.com/attachments/966337602678566914/1178193433320505474/github-header-image.png?ex=65754124&is=6562cc24&hm=f95b4b5c7ef1ddb9590164545e4673b3edd7a16800a2930bbc36743e853e1c8a&" alt="" />
 
-### Olá 👋, Sou o Guilherme!
-
-### 🔭 Quem sou eu?
+# 🔭 Quem sou eu?
 
 <hr>
 
+## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
 -  Atualmente me aprofundando no ecossistema **Next.js** (App & Pages Router).
