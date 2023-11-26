@@ -1,8 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/966337602678566914/1178193433320505474/github-header-image.png?ex=65754124&is=6562cc24&hm=f95b4b5c7ef1ddb9590164545e4673b3edd7a16800a2930bbc36743e853e1c8a&" alt="" />
+<img src="[https://cdn.discordapp.com/attachments/966337602678566914/1178193433320505474/github-header-image.png?ex=65754124&is=6562cc24&hm=f95b4b5c7ef1ddb9590164545e4673b3edd7a16800a2930bbc36743e853e1c8a&](https://cdn.discordapp.com/attachments/966337602678566914/1178195445646889010/github-header-image_1.png?ex=65754304&is=6562ce04&hm=541d4696034c523fadf31a546a632bd85c96098c58690ec66f8685445d77c280&)" alt="" />
 
 # 🔭 Quem sou eu?
-
-<hr>
 
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
