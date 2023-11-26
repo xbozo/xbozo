@@ -19,7 +19,7 @@
 ### ✨ Outras tecnologias
 [![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,git,github,redux,html,css,)](https://skillicons.dev)
 
-Dentre outras tecnologias, como **Axios, React Hook Form, Zod, Zustand, TanStack Query, SWR, Sass, Radix, Stitches, Storybook**... 
+Dentre outras, como **Axios, React Hook Form, Zod, Zustand, TanStack Query, SWR, Sass, Radix, Stitches, Storybook**... 
 
 <hr>
 
