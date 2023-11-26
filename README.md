@@ -1,26 +1,31 @@
-### Hi 👋, I'm Guilherme!
--  Studying **Next.js**.
--  Plans on studying Fullstack environment on the future.
+<img src="https://cdn.discordapp.com/attachments/966337602678566914/1178193433320505474/github-header-image.png?ex=65754124&is=6562cc24&hm=f95b4b5c7ef1ddb9590164545e4673b3edd7a16800a2930bbc36743e853e1c8a&" alt="" />
 
+### Olá 👋, Sou o Guilherme!
 
-## 🛠 Main Habilities
-- React
-- JavaScript & TypeScript
-- Git & GitHub
+### 🔭 Quem sou eu?
 
+<hr>
 
-### ✨ Other technologies
-- TailwindCSS
-- Styled Components
-- Axios
-- React Hook Form
-- Zod
-- Redux
-- Zustand
-- TanStack Query
+### 👨🏾‍💻 Desenvolvedor Front-end
 
+-  Atualmente me aprofundando no ecossistema **Next.js** (App & Pages Router).
+-  Tenho planos em estudar o ambiente back-end no futuro.
 
-## 📱 Contact Me
+<hr>
+
+## 🛠 Principais habilidades
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs)](https://skillicons.dev)
+
+<hr>
+
+### ✨ Outras tecnologias
+[![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,git,github,redux,html,css,)](https://skillicons.dev)
+
+Dentre outras tecnologias, como **Axios, React Hook Form, Zod, Zustand, TanStack Query, SWR, Sass, Radix, Stitches, Storybook**... 
+
+<hr>
+
+## 📱 Contatos
 
 <p align="left">
 <a href="https://github.com/xbozo" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
