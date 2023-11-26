@@ -7,8 +7,9 @@
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
+-  Possuo cerca de 18 meses de experiência com React e TypeScript.
 -  Atualmente me aprofundando no ecossistema **Next.js** (App & Pages Router).
--  Tenho planos em estudar o ambiente back-end no futuro.
+-  Tenho planos em estudar o ambiente back-end no futuro (Principalmente em Node.js).
 
 <hr>
 
