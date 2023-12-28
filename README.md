@@ -5,9 +5,10 @@
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
--  Possuo cerca de 18 meses de experiência com React e TypeScript.
--  Atualmente me aprofundando no ecossistema **Next.js** (App & Pages Router).
--  Tenho planos em estudar o ambiente back-end no futuro (Principalmente em Node.js).
+-  Possuo cerca de 2 anos de estudo, principalmente em JS, TS, React & Next.js.
+-  Possuo cerca de 1 ano trabalhando em projetos reais com a stack citada acima.
+-  Atualmente me aprofundando ainda mais no ecossistema **Next.js**.
+-  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como back-end, dev. de jogos, etc.
 
 <hr>
 
@@ -19,7 +20,7 @@
 ### ✨ Outras tecnologias
 [![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,git,github,redux,html,css,)](https://skillicons.dev)
 
-Dentre outras, como **Axios, React Hook Form, Zod, Zustand, TanStack Query, SWR, Sass, Radix, Stitches, Storybook**... 
+Dentre outras, como **Axios, React Hook Form, Zod, Zustand, TanStack Query, SWR, Sass, Radix UI, shadcn/ui, Stitches, Storybook**... 
 
 <hr>
 
