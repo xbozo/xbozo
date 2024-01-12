@@ -7,8 +7,8 @@
 
 -  Possuo cerca de 2 anos de estudo, principalmente em JS, TS, React & Next.js.
 -  Possuo cerca de 1 ano trabalhando em projetos reais com a stack citada acima.
--  Atualmente me aprofundando ainda mais no ecossistema **Next.js**.
--  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como back-end, dev. de jogos, etc.
+-  Atualmente estudando **Node.js**.
+-  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como mobile, dev. de jogos, além de ampliar meu leque de conhecimento em back/front-end.
 
 <hr>
 
