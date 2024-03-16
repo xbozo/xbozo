@@ -5,9 +5,9 @@
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
--  Possuo cerca de 2 anos de estudo, principalmente em JS, TS, React & Next.js.
--  Possuo cerca de 1 ano trabalhando em projetos reais com a stack citada acima.
--  Atualmente estudando **Node.js**.
+-  Cerca de 2 anos de estudo, principalmente em JS, TS, React & Next.js.
+-  Cerca de 1 ano trabalhando em projetos reais com a stack citada acima.
+-  Atualmente estudando **Node.js** e  C#.
 -  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como mobile, dev. de jogos, além de ampliar meu leque de conhecimento em back/front-end.
 
 <hr>
@@ -20,7 +20,7 @@
 ### ✨ Outras tecnologias
 [![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,git,github,redux,html,css,)](https://skillicons.dev)
 
-Dentre outras, como **Axios, React Hook Form, Zod, Next Auth, Redux, Zustand, TanStack Query, SWR, Sass, Radix UI, shadcn/ui, Stitches, Storybook**... 
+Dentre outras, como **Axios, React Hook Form, Zod, Next Auth, Kinde, Redux, Zustand, TanStack Query, SWR, Sass, Radix UI, shadcn/ui, Stitches, Storybook**, etc... 
 
 <hr>
 
