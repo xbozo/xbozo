@@ -17,13 +17,6 @@
 
 <hr>
 
-### ✨ Outras tecnologias
-[![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,git,github,redux,html,css,)](https://skillicons.dev)
-
-Dentre outras, como **Axios, React Hook Form, Zod, Next Auth, Kinde, Redux, Zustand, TanStack Query, SWR, Sass, Radix UI, shadcn/ui, Stitches, Storybook**, etc... 
-
-<hr>
-
 ## 📱 Contatos
 
 <p align="left">
