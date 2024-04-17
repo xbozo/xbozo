@@ -5,15 +5,27 @@
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
--  Cerca de 2 anos de estudo, principalmente em JS, TS, React & Next.js.
+-  2-3 anos de estudo, principalmente em JS, TS, React & Next.js.
 -  Cerca de 1 ano trabalhando em projetos reais com a stack citada acima.
 -  Atualmente estudando **Node.js** e  **React Native**.
--  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como dev. de jogos, dev. de apps desktop, dentre outros. Além de ampliar meu leque de conhecimento em back/front-end.
+-  Tenho planos em estudar outros ambientes de desenvolvimento no futuro, como dev. de jogos, dev. de apps desktop, dentre outros; além de ampliar meu leque de conhecimento em back/front-end.
 
 <hr>
 
 ## 🛠 Principais habilidades
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs)](https://skillicons.dev)
+
+```tsx
+const doesWannaSeeMore = true
+
+const portfolio = () => {
+	if(doesWannaSeeMore) {
+	 	return https://portfolio-guilherme-viana.vercel.app
+	} 
+
+	return null
+}
+``` 
 
 <hr>
 
