@@ -14,17 +14,6 @@
 
 ## 🛠 Principais habilidades
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs)](https://skillicons.dev)
-
-```tsx
-const doesWannaSeeMore = true
-
-const portfolio = () => {
-  if(doesWannaSeeMore) {
-    return https://portfolio-guilherme-viana.vercel.app
-  } 
-
-  return null
-}
 ``` 
 
 <hr>
