@@ -12,11 +12,6 @@
 
 <hr>
 
-## 🛠 Principais habilidades
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nextjs)](https://skillicons.dev)
-
-<hr>
-
 ## 📱 Contatos
 
 <p align="left">
