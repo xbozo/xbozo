@@ -5,7 +5,7 @@
 ## Olá 👋, Sou o Guilherme!
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
--  2 anos de experiência com JS/TS, React e Next.js.
+-  2 anos de experiência com JavaScript/TypeScript, React e Next.js.
 -  Atualmente estudando **Node.js** e  **React Native**.
 -  Pretendo estudar outros ambientes além do desenvolvimento web e além da stack JS no futuro.
 
