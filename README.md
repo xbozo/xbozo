@@ -6,7 +6,7 @@
 ### 👨🏾‍💻 Desenvolvedor Front-end
 
 -  2 anos de experiência com JavaScript/TypeScript, React e Next.js.
--  Atualmente estudando **Node.js** e  **React Native**.
+-  Atualmente me aprofundando no ecossistema **Node** e  **Mobile**.
 -  Pretendo estudar outros ambientes além do desenvolvimento web e além da stack JS no futuro.
 
 <hr>
